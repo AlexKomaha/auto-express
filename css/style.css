@@ -89,7 +89,7 @@ a{
   align-items: center;
 }
 
-.header__social-link{
+.social-link{
   margin-right: 10px;
 }
 
@@ -373,4 +373,16 @@ a{
   color: #fff;
   margin-top: 78px;
   cursor: pointer;
+}
+
+.footer{
+  background-color: #21062A;
+}
+
+.footer__inner{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #fff;
+  height: 100px;
 }
